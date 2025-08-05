@@ -4,6 +4,7 @@ A Discord bot that can chat, set reminders, and generate AI images
 
 ## Features
 - Easy prompting and flexibility for users to generate desired AI images
+- Modernized Slash Commands for each command
 - Sets reminders and pings users
 - Chats with a vibrant, natural personality that remembers chat history and user messages
 - Chat and reminders use llama3 model via ollama http request
