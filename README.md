@@ -1,10 +1,10 @@
 # Woodstock AI Discord Bot
 
-A Discord bot that can chat, set reminders, and generate AI images
+A discord.py-based bot that can chat, set reminders, and generate AI images
 
 ## Features
 - Easy prompting and flexibility for users to generate desired AI images
-- Modernized Slash Commands for each command
+- Uses Modernized Discord Slash Commands for each feature
 - Sets reminders and pings users
 - Chats with a vibrant, natural personality that remembers chat history and user messages
 - Chat and reminders use llama3 model via ollama http request
